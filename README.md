@@ -1,5 +1,11 @@
-# 💫 About Me:
-¡Hola! Soy Javier, un apasionado de la programación con un gran interés en la creación de proyectos. Me encanta investigar nuevas tecnologías, explorar y aprender constantemente para mejorar mis habilidades como programador.
+# 💫 About 
+👋 Hola, soy Javier
+
+Desarrollador Web Junior con formación en DAW, enfocado en JavaScript y React.
+
+He trabajado en proyectos reales desarrollando interfaces web, resolviendo incidencias y mejorando la experiencia de usuario.
+
+Actualmente estoy desarrollando aplicaciones propias para consolidar mis habilidades y construir un portfolio sólido.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-gonzález-5035192b1) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/s9code) 
