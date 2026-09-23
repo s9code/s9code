@@ -1,3 +1,3 @@
 # Sobre mí
 
-Desarrollador web enfocado en JavaScript, React y Node.js.
+Desarrollador enfocado en JavaScript y desarrollo frontend.
